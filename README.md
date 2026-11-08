@@ -14,11 +14,16 @@ I build physical sensory circuit prototypes, configure embedded microcontroller 
 
 ---
 
-### 📊 GitHub Stats
+### 💻 Tech Stack & Tools
 
 <p align="left">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=vineethj14-tech&show_icons=true&theme=radial" alt="Vineeth's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=vineethj14-tech&layout=compact&theme=radial" alt="Top Languages" width="48%" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
+  <img src="https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
 </p>
 
 ---
