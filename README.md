@@ -1,10 +1,4 @@
-# Hi, I'm Vineeth J 👋
 
-### 🚀 Electronics & Communication Engineering Student | IoT & Computer Vision Developer
-
-I build physical sensory circuit prototypes, configure embedded microcontroller systems, and build computer vision pipelines for real-world impact.
-
----
 <p align="center">
   <img src="https://raw.githubusercontent.com/vineethj14-tech/vineethj14-tech/main/header.png" width="100%" alt="Animated Header Banner" />
 </p>
