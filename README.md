@@ -5,6 +5,11 @@
 I build physical sensory circuit prototypes, configure embedded microcontroller systems, and build computer vision pipelines for real-world impact.
 
 ---
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=33CCFF&center=true&vCenter=true&width=600&height=50&lines=Hi%2C+I'm+Vineeth+J+%F0%9F%91%8B;Electronics+%26+Communication+Engineer;IoT+%26+Embedded+Systems+Developer;Computer+Vision+Enthusiast" alt="Typing SVG" />
+</p>
+
+---
 
 ### 🛠️ Skills & Technologies
 
@@ -31,4 +36,4 @@ I build physical sensory circuit prototypes, configure embedded microcontroller 
 ### 📬 Connect With Me
 
 * **LinkedIn:** [Vineeth Jagadeesh](https://www.linkedin.com/in/vineeth-jagadeesh-140674387)
-* **GitHub:** [vineethj14-tech](https://github.com/vineethj14-tech)
+* **GitHub:** [vineethj14-tech](https://vineethj14-tech)
