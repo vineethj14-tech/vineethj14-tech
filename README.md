@@ -1,6 +1,5 @@
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/vineethj14-tech/vineethj14-tech/main/header.png" width="100%" alt="Animated Header Banner" />
+  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/coding/coder.gif" width="100%" alt="Animated Header Banner" />
 </p>
 
 # Hi, I'm Vineeth J 👋
@@ -36,5 +35,4 @@ I build physical sensory circuit prototypes, configure embedded microcontroller 
 ### 📬 Connect With Me
 
 * **LinkedIn:** [Vineeth Jagadeesh](https://www.linkedin.com/in/vineeth-jagadeesh-140674387)
-* **GitHub:** [vineethj14-tech](https://github.com/vineethj14-tech)
-
+* **GitHub:** [vineethj14-tech](https://vineethj14-tech)
